@@ -85,9 +85,46 @@ class Participant extends React.Component {
 
           <div className="question">
             <Form.Group grouped>
-              <label className="lead my-4">HTML checkboxes</label>
-              <Form.Field label="This one" control="input" type="checkbox" />
-              <Form.Field label="That one" control="input" type="checkbox" />
+              <label className="lead my-4">
+                What Nike products do you plan to buy this year?
+              </label>
+              <Form.Field label="Shoes" control="input" type="checkbox" />
+              <Form.Field
+                label="Compression & Nike Pro"
+                control="input"
+                type="checkbox"
+              />
+              <Form.Field
+                label="Tops & Tshirts"
+                control="input"
+                type="checkbox"
+              />
+              <Form.Field
+                label="Hoodies & Pullovers"
+                control="input"
+                type="checkbox"
+              />
+              <Form.Field
+                label="Jackets & Vests"
+                control="input"
+                type="checkbox"
+              />
+              <Form.Field
+                label="Pants & Vests"
+                control="input"
+                type="checkbox"
+              />
+              <Form.Field label="Tracksuits" control="input" type="checkbox" />
+              <Form.Field
+                label="Surf & Swimwear"
+                control="input"
+                type="checkbox"
+              />
+              <Form.Field
+                label="Accessories & Equipment"
+                control="input"
+                type="checkbox"
+              />
             </Form.Group>
           </div>
           <div className="d-flex justify-content-center submit-btn">
