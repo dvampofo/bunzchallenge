@@ -6,7 +6,7 @@ Image of sample user survey for team **[ SurveyAnonymous](https://github.com/dva
 
 ## DESCRIPTION:
 
-**TL:DR;** An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
+**TL;DR:** An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
 
 User data in market research is protected and unexploitable with the use of blockchain and PGP encryption. Survey responses are encrypted, only viewable by the party who initiated survey.
 
@@ -16,7 +16,7 @@ Data is collected only at the **_user's_** request.
 
 ## DEMO:
 
-[Click here](https://dvampofo.github.io/bunzchallenge/)
+**[Click here](https://dvampofo.github.io/bunzchallenge/)**
 
 ## TECHNOLOGIES:
 
