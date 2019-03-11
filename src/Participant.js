@@ -1,7 +1,9 @@
 import React from "react";
 // import React, { Component } from "react";
 import { Form } from "semantic-ui-react";
+// eslint-disable-next-line
 import { List, Label, Button } from "semantic-ui-react";
+
 import "./participant.css";
 
 class Participant extends React.Component {

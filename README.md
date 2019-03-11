@@ -16,7 +16,7 @@ Data is collected only at the **_user's_** request.
 
 ## DEMO:
 
-[Click here]()
+[Click here](https://dvampofo.github.io/bunzchallenge/)
 
 ## TECHNOLOGIES:
 
