@@ -1,5 +1,5 @@
 {
-  "main.css": "/bunzchallenge/static/css/main.41c0d45d.chunk.css",
+  "main.css": "/bunzchallenge/static/css/main.0a1b3ee9.chunk.css",
   "main.js": "/bunzchallenge/static/js/main.5b8eb459.chunk.js",
   "main.js.map": "/bunzchallenge/static/js/main.5b8eb459.chunk.js.map",
   "runtime~main.js": "/bunzchallenge/static/js/runtime~main.62193f5a.js",
@@ -8,8 +8,8 @@
   "static/js/2.c293a13b.chunk.js": "/bunzchallenge/static/js/2.c293a13b.chunk.js",
   "static/js/2.c293a13b.chunk.js.map": "/bunzchallenge/static/js/2.c293a13b.chunk.js.map",
   "index.html": "/bunzchallenge/index.html",
-  "precache-manifest.93db527bc4a9ea470dd8bed97f2925c9.js": "/bunzchallenge/precache-manifest.93db527bc4a9ea470dd8bed97f2925c9.js",
+  "precache-manifest.aa62956329aecdf2f57c7c15ab1023e5.js": "/bunzchallenge/precache-manifest.aa62956329aecdf2f57c7c15ab1023e5.js",
   "service-worker.js": "/bunzchallenge/service-worker.js",
   "static/css/2.566c3e31.chunk.css.map": "/bunzchallenge/static/css/2.566c3e31.chunk.css.map",
-  "static/css/main.41c0d45d.chunk.css.map": "/bunzchallenge/static/css/main.41c0d45d.chunk.css.map"
+  "static/css/main.0a1b3ee9.chunk.css.map": "/bunzchallenge/static/css/main.0a1b3ee9.chunk.css.map"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bunzchallenge/precache-manifest.93db527bc4a9ea470dd8bed97f2925c9.js"
+  "/bunzchallenge/precache-manifest.aa62956329aecdf2f57c7c15ab1023e5.js"
 );
 
 workbox.clientsClaim();
